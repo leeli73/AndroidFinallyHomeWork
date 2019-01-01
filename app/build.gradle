@@ -29,4 +29,5 @@ dependencies {
     implementation "com.hanks:htextview-base:$htextview_version"
     implementation "com.hanks:htextview-scale:$htextview_version"
     implementation 'me.majiajie:pager-bottom-tab-strip:2.3.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.10.0'
 }
